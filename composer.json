@@ -1,0 +1,14 @@
+{
+    "name": "fdciabdul/crontab",
+    "description": "PHP CrontabHelper",
+    "type": "library",
+    "license": "ISC",
+    "authors": [
+        {
+            "name": "Abdul Muttaqin",
+            "email": "abdulmuttaqin456@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
