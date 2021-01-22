@@ -67,7 +67,7 @@ class Core
     
     public function startMaster(){
         cli_set_process_title("master");
-        //启动任务
+        //trigerring
         $sighandler = function ($signo) {
             $keys = explode(',', file_get_contents($this->task_file));
             $config = $this->config;
